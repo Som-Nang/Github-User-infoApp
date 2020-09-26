@@ -1,0 +1,11 @@
+p{
+    text-align: center;
+    color: #242424;
+    font-size: 8px;
+    padding-top: 8px;
+    font-family: unset;
+}
+p:hover{
+    color: grey;
+    cursor: pointer;
+}
