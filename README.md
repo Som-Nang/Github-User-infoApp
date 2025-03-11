@@ -1,4 +1,5 @@
 ## Starter Project
+![ai_assistant_app](https://github.com/user-attachments/assets/bda0fb94-0057-4340-9d60-5a76ec8401a0)
 
 - css provided (global styles, styled components)
 - folders/files already setup
@@ -113,3 +114,5 @@ package.json
 ```
 
 [create-react-app Warning Fix Blog Post](https://community.netlify.com/t/how-to-fix-build-failures-with-create-react-app-in-production/17752)
+
+
